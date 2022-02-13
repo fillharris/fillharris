@@ -12,7 +12,7 @@
 
 - 👯 I’m hoping  to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me **contact.a6c)y@aleeas.com**
+- 📫 How to reach me **contact.a6c0y@aleeas.com**
 
 - ⚡ Fun fact **I was a :cop: for 20 years before I discovered code.**
 
