@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **completing the *Practicum by Yandex* Web Developer bootcamp.**
 
-- 🌱 I’m currently learning **everything web dev (primarily MERN stack)**
+- 🌱 I’m currently learning **everything web dev (primarily MERN stack).**
 
-- 👯 I’m hoping  to collaborate on **OpenSource Projects**
+- 👯 I’m hoping  to collaborate on **OpenSource Projects.**
 
-- 📫 How to reach me ****
+- 📫 How to reach me **contact.a6c)y@aleeas.com**
 
 - ⚡ Fun fact **I was a :cop: for 20 years before I discovered code.**
 
