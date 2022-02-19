@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **completing the *Practicum by Yandex* Web Developer bootcamp.**
+- 🔭 I’m currently working on **completing the *Practicum by Yandex* Software Engineer bootcamp.**
 
 - 🌱 I’m currently learning **everything web dev (primarily MERN stack).**
 
